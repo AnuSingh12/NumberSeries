@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">NaturalNumberCounter</string>
+    <string name="click_for_increment_text">Click for Increment</string>
+</resources>
