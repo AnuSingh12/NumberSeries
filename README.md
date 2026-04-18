@@ -18,8 +18,6 @@ An Android application that generates number sequences using modern Android arch
   Back → returns to Fibonacci screen
   Add → generates next prime number
 
----
-
 ## Architecture & Tech
 
 - Kotlin
